@@ -1,0 +1,3 @@
+/home/mengchang0508/github/test/test/part_sort/build/CMakeFiles/partSort.dir
+/home/mengchang0508/github/test/test/part_sort/build/CMakeFiles/edit_cache.dir
+/home/mengchang0508/github/test/test/part_sort/build/CMakeFiles/rebuild_cache.dir

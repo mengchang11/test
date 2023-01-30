@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/partSort.dir/src/print.cpp.o CMakeFiles/partSort.dir/src/part_sort.cpp.o CMakeFiles/partSort.dir/src/main.cpp.o -o partSort 
